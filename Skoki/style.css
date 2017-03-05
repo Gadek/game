@@ -1,0 +1,14 @@
+ body {
+     margin:0 !important;
+	 background-color:#798f46;
+   color:#fff;
+}
+#top {
+  color:#000
+}
+#points {
+  line-height: 10%;
+}
+#lifes {
+  color:#a3f6f2;
+}
