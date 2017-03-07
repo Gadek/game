@@ -20,7 +20,7 @@ function draw() {
     noLoop()
     text1.html("Click to start!");
   }
-  background(170,210,250);
+  background(170,210,230);
   extraPoints+=0.0001;
   points+=extraPoints;
   for(var i=0 ; i<obstacles.length ; i++) {
